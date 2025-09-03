@@ -1,0 +1,12 @@
+---
+title: "Hello, Quarto + GitHub Pages"
+date: 2025-09-03
+categories: [setup, notes]
+---
+
+This is my first post. The site is built with **Quarto** and deployed via **GitHub Actions** to **GitHub Pages**.
+
+```python
+for i in range(3):
+    print("Hello from Quarto!", i)
+
