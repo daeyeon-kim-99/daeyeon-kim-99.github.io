@@ -7,5 +7,4 @@ title: Home
 This is **Daeyeon Kim's CV/AI Portfolio**.
 
 - 🔬 Research: Computer Vision, AI
-- 📂 Projects: [Projects](./projects.md)
-- ✍️ Posts: [Posts](./posts.md)
+- 📂 Projects: [CS566 Projects](./cs566)
