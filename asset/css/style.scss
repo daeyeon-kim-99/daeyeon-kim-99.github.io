@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+body {
+  background-color: #f9fafb;
+  color: #1f2933;
+}
+
 .page-content,
 .main-content {
   max-width: 1100px;
@@ -10,9 +15,21 @@
 }
 
 h1 {
-  color: #2f855a;
+  color: #0f766e;
 }
 
-h2 {
-  color: #2b6cb0;
+h2, h3 {
+  color: #2563eb;
+}
+
+strong, b {
+  color: #065f46;
+}
+
+a {
+  color: #2563eb;
+}
+
+a:hover {
+  text-decoration: underline;
 }
